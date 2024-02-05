@@ -1,8 +1,8 @@
-export function Login() {
+export function SignUp() {
   return (
     <>
       <div>
-        Login
+        SignUp
       </div>
     </>
   )

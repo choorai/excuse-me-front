@@ -1,8 +1,9 @@
-export function Login() {
+export function Home() {
+
   return (
     <>
       <div>
-        Login
+        Home
       </div>
     </>
   )
